@@ -5,6 +5,6 @@ The Face Recognition Attendance System is a web application that uses advanced f
 
 
 # LIVE SITE
-🔗 Check out the live version of FitTrack <a href="https://myattendance.systems/" target="_blank">here</a>
+🔗 Check out the live version <a href="https://myattendance.systems/" target="_blank">here</a>
 
 Revolutionize attendance with this Project : Secure, accurate, and seamless facial recognition.
