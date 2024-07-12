@@ -31,7 +31,7 @@ Purchased the domain <a href="https://myattendance.systems/" target="_blank"> **
 Revolutionize attendance with this Project: Secure, accurate, and seamless facial recognition.
 
 #### if previous link doesn't work
-🔗 You can also view the site directly via its IPv4 address <a href="http://YOUR_IPV4_ADDRESS" target="_blank">here</a>.
+🔗 You can also view the site directly via its IPv4 address <a href="https://16.171.29.142/" target="_blank">here</a>.
 
 Note: Your browser may show a "site not secure" warning when redirected through the direct IPv4 address. If this happens, please follow these steps:
 
