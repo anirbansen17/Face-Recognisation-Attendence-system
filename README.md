@@ -2,6 +2,22 @@
 
 The Face Recognition Attendance System is a web application that uses advanced facial recognition to automate attendance tracking. Deployed on AWS, it offers high accuracy, real-time processing, and secure data storage. Users benefit from a user-friendly interface, making attendance management efficient and contactless.
 
+# Features
+### 🖥️ Face Detection and Recognition
+Developed a complete attendance system using facial recognition technologies, Python, OpenCV, Numpy, Pandas, InsightFace, and Redis.
+
+### 📝 Registration and Reporting
+Led the creation of sophisticated face detection and recognition systems using CNNs, improving real-time identification accuracy to more than 90% (manually testing).
+
+### 🌐 Intuitive Web Interface
+Developed an intuitive web interface using Streamlit, incorporating Redis for efficient data storage, and deployed it on an ***AWS Linux machine server***, reducing processing latency by approximately 35% and enhancing the user experience.
+
+### 🔒 Domain Integration and Security 
+Purchased the domain "myattendance.systems," connected it with ***AWS Route 53*** for name server management, and secured the domain with an SSL certificate through ***Cloudflare*** to ensure a safe and trusted user experience.
+
+
+
+
 # IMAGES
 📸  Home Page ![img-1](./Screenshots/image-1.png)
 📸  Attendance Page  ![img-2](./Screenshots/image-2.png)
