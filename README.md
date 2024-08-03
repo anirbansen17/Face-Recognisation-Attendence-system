@@ -13,7 +13,7 @@ Led the creation of sophisticated face detection and recognition systems using C
 Developed an intuitive web interface using Streamlit, incorporating Redis for efficient data storage, and deployed it on an ***AWS Linux machine server***, reducing processing latency by approximately 35% and enhancing the user experience.
 
 ### 🔒 Domain Integration and Security 
-Purchased the domain <a href="https://myattendance.systems/" target="_blank"> ***"myattendance.systems"*** </a> from name.com and connected it with ***AWS Route 53*** for name server management, and secured the domain with an SSL certificate through Cloudflare to ensure a safe and trusted user experience.
+Purchased the domain <a href="https://myattendance.systems/" target="_blank"> ***"myattendance.systems"*** </a> from name.com and connected it with ***AWS Route 53*** for name server management, and secured the domain with an SSL certificate through ***Cloudflare*** to ensure a safe and trusted user experience.
 
 
 # IMAGES
